@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- Outer Square with Black Color -->
+  <rect x="0" y="0" width="64" height="64" fill="black" rx="10" />
+
+  <!-- Inner Circle -->
+  <circle cx="32" cy="32" r="24" fill="white" />
+
+  <!-- Bold Chat Bubble in Black -->
+  <path d="M21 24C21 22.3431 22.3431 21 24 21H40C41.6569 21 43 22.3431 43 24V34C43 35.6569 41.6569 37 40 37H28L24 42V37H24C22.3431 37 21 35.6569 21 34V24Z" fill="black" />
